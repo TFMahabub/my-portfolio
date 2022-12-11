@@ -6,8 +6,7 @@ import Resumerea from '../../../../Assets/Resume.pdf'
 const Banner = () => {
   return (
     <section 
-    className='mx-auto lg:h-screen border-2 
-    border-sky_blue lg:flex lg:items-center
+    className='mx-auto lg:h-screen lg:flex lg:items-center
      lg:justify-between mt-6 lg:mt-0'
     >
       <div className='lg:w-1/2 mt-8 text-center lg:text-start'>

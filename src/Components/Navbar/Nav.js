@@ -11,7 +11,7 @@ const Nav = () => {
     {name: 'Contact', link: '#home'},
   ]
   return (
-      <nav className='lg:absolute border-2 border-sky_blue w-full'>
+      <nav className='lg:absolute w-full'>
       <header className="p-4 lg:p-0 dark:text-gray-100">
         <div className="flex justify-between items-center h-16 mx-auto">
           <h3 className='text-2xl font-semibold text-white'>MAHABUB</h3>

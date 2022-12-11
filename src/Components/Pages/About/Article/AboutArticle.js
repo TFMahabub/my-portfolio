@@ -4,7 +4,7 @@ const AboutArticle = () => {
   return (
     <article className='lg:w-1/2 text-white mt-6 lg:mt-0'>
       <h4 className='text-2xl font-medium'>About Me</h4>
-      <p className='tracking-widest font-light text-text_mute'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, quos debitis rerum iure sit amet consectetur adipisicing elit. Cupiditate, quos debitis rerum iure</p>
+      <p className='tracking-widest font-light text-text_mute'>I love to do coding. My favorite thing about coding is always trying to learn something new, explore new logic and apply this to web projects. I will always be comfortable working with a team.</p>
       <div className='mt-8 lg:flex border-2 border-text_mute rounded-lg'>
         <div className='p-6 lg:border-r-2 border-text_mute'>
           <h4 className='tracking-wide'>Name</h4>

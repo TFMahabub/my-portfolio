@@ -7,7 +7,7 @@ const About = () => {
   return (
     <section className=''>
       <TitleText top={'About me'} down={'A Passionate Developer Who Loves to Code'}></TitleText>
-      <div className='mt-6 lg:flex lg:space-x-8'>
+      <div className='mt-6 lg:flex lg:space-x-14'>
         <Image></Image>
         <AboutArticle></AboutArticle>
       </div>
